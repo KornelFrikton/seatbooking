@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Theater seat selector
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for simulating a theater seat booking app. The database, where the app searching the available seats, is a JSON file.
+The best seats: 
+1. have the highest prices
+2. are in the best zone (auditorium - 1; balcony mid - 2, balcony left & right - 3, box left & right - 4)
+3. are in the closest row to the stage
+4. are in the middle of the row
 
-## Available Scripts
+## Getting started
 
-In the project directory, you can run:
+The application is running in a browser (Google Chrome, Mozilla Firefox, etc.), it is not necessary to install any other applications.
 
-### `npm start`
+## How to use the application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Set the percent of the reserved seats in the **first** input field between 20 and 100% 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Set the requested seats in the **second** input field between 2 and 8 pieces
 
-### `npm test`
+- Click on the **Find the best seats** button to get the best option from the available seats
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built with
 
-### `npm run build`
+Used [React](https://reactjs.org/) for implementation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Version
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*1.0 - 01/08/2022* - Publishing of the application  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Author
 
-### `npm run eject`
+Kornel Frikton - [https://github.com/KornelFrikton](https://github.com/KornelFrikton)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Licence
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This application was built for fun, feel free to use it :)

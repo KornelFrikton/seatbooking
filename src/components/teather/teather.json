@@ -1,0 +1,1671 @@
+{
+    "auditorium": {
+      "priority": 0,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 0,
+              "number": 1,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 1,
+              "number": 2,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 2,
+              "number": 3,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 3,
+              "number": 4,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 4,
+              "number": 5,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 5,
+              "number": 6,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 6,
+              "number": 7,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 7,
+              "number": 8,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 8,
+              "number": 9,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 9,
+              "number": 10,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 10,
+              "number": 11,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 11,
+              "number": 12,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 12,
+              "number": 13,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 13,
+              "number": 14,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 14,
+              "number": 1,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 15,
+              "number": 2,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 16,
+              "number": 3,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 17,
+              "number": 4,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 18,
+              "number": 5,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 19,
+              "number": 6,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 20,
+              "number": 7,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 21,
+              "number": 8,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 22,
+              "number": 9,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 23,
+              "number": 10,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 24,
+              "number": 11,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 25,
+              "number": 12,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 26,
+              "number": 13,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 27,
+              "number": 14,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 28,
+              "number": 15,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 3,
+          "seats": [
+            {
+              "id": 29,
+              "number": 1,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 30,
+              "number": 2,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 31,
+              "number": 3,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 32,
+              "number": 4,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 33,
+              "number": 5,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 34,
+              "number": 6,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 35,
+              "number": 7,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 36,
+              "number": 8,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 37,
+              "number": 9,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 38,
+              "number": 10,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 39,
+              "number": 11,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 40,
+              "number": 12,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 41,
+              "number": 13,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 42,
+              "number": 14,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 43,
+              "number": 15,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 44,
+              "number": 16,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 4,
+          "seats": [
+            {
+              "id": 45,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 46,
+              "number": 2,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 47,
+              "number": 3,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 48,
+              "number": 4,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 49,
+              "number": 5,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 50,
+              "number": 6,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 51,
+              "number": 7,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 52,
+              "number": 8,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 53,
+              "number": 9,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 54,
+              "number": 10,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 55,
+              "number": 11,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 56,
+              "number": 12,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 57,
+              "number": 13,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 58,
+              "number": 14,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 59,
+              "number": 15,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 60,
+              "number": 16,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 61,
+              "number": 17,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 5,
+          "seats": [
+            {
+              "id": 62,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 63,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 64,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 65,
+              "number": 4,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 66,
+              "number": 5,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 67,
+              "number": 6,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 68,
+              "number": 7,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 69,
+              "number": 8,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 70,
+              "number": 9,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 71,
+              "number": 10,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 72,
+              "number": 11,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 73,
+              "number": 12,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 74,
+              "number": 13,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 75,
+              "number": 14,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 76,
+              "number": 15,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 77,
+              "number": 16,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 78,
+              "number": 17,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 79,
+              "number": 18,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 6,
+          "seats": [
+            {
+              "id": 80,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 81,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 82,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 83,
+              "number": 4,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 84,
+              "number": 5,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 85,
+              "number": 6,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 86,
+              "number": 7,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 87,
+              "number": 8,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 88,
+              "number": 9,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 89,
+              "number": 10,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 90,
+              "number": 11,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 91,
+              "number": 12,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 92,
+              "number": 13,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 93,
+              "number": 14,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 94,
+              "number": 15,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 95,
+              "number": 16,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 96,
+              "number": 17,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 97,
+              "number": 18,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 98,
+              "number": 19,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 7,
+          "seats": [
+            {
+              "id": 99,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 100,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 101,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 102,
+              "number": 4,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 103,
+              "number": 5,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 104,
+              "number": 6,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 105,
+              "number": 7,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 106,
+              "number": 8,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 107,
+              "number": 9,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 108,
+              "number": 10,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 109,
+              "number": 11,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 110,
+              "number": 12,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 111,
+              "number": 13,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 112,
+              "number": 14,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 113,
+              "number": 15,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 114,
+              "number": 16,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 115,
+              "number": 17,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 116,
+              "number": 18,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 117,
+              "number": 19,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 118,
+              "number": 20,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 8,
+          "seats": [
+            {
+              "id": 119,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 120,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 121,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 122,
+              "number": 4,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 123,
+              "number": 5,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 124,
+              "number": 6,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 125,
+              "number": 7,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 126,
+              "number": 8,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 127,
+              "number": 9,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 128,
+              "number": 10,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 129,
+              "number": 11,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 130,
+              "number": 12,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 131,
+              "number": 13,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 132,
+              "number": 14,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 133,
+              "number": 15,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 134,
+              "number": 16,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 135,
+              "number": 17,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 136,
+              "number": 18,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 137,
+              "number": 19,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 138,
+              "number": 20,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 139,
+              "number": 21,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    },
+    "balconymid": {
+      "priority": 1,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 140,
+              "number": 1,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 141,
+              "number": 2,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 142,
+              "number": 3,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 143,
+              "number": 4,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 144,
+              "number": 5,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 145,
+              "number": 6,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 146,
+              "number": 7,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 147,
+              "number": 8,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 148,
+              "number": 9,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 149,
+              "number": 10,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 150,
+              "number": 11,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 151,
+              "number": 12,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 152,
+              "number": 13,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 153,
+              "number": 14,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 154,
+              "number": 15,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 155,
+              "number": 16,
+              "value": 5000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 156,
+              "number": 17,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 157,
+              "number": 18,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 158,
+              "number": 1,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 159,
+              "number": 2,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 160,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 161,
+              "number": 4,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 162,
+              "number": 5,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 163,
+              "number": 6,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 164,
+              "number": 7,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 165,
+              "number": 8,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 166,
+              "number": 9,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 167,
+              "number": 10,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 168,
+              "number": 11,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 169,
+              "number": 12,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 170,
+              "number": 13,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 171,
+              "number": 14,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 172,
+              "number": 15,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 173,
+              "number": 16,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 174,
+              "number": 17,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 175,
+              "number": 18,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 176,
+              "number": 19,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    },
+    "balconyleft": {
+      "priority": 2,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 177,
+              "number": 1,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 178,
+              "number": 2,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 179,
+              "number": 3,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 180,
+              "number": 4,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 181,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 182,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 183,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 184,
+              "number": 4,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    },
+    "balconyright": {
+      "priority": 2,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 185,
+              "number": 1,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 186,
+              "number": 2,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 187,
+              "number": 3,
+              "value": 4000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 188,
+              "number": 4,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 189,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 190,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 191,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 192,
+              "number": 4,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    },
+    "boxleft1": {
+      "priority": 3,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 193,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 194,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 195,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 196,
+              "number": 1,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 197,
+              "number": 2,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 198,
+              "number": 3,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    },
+    "boxleft2": {
+      "priority": 3,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 199,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 200,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 201,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 202,
+              "number": 1,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 203,
+              "number": 2,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 204,
+              "number": 3,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    },
+    "boxright1": {
+      "priority": 3,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 205,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 206,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 207,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 208,
+              "number": 1,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 209,
+              "number": 2,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 210,
+              "number": 3,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    },
+    "boxright2": {
+      "priority": 3,
+      "rows": [
+        {
+          "rownumber": 1,
+          "seats": [
+            {
+              "id": 211,
+              "number": 1,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 212,
+              "number": 2,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 213,
+              "number": 3,
+              "value": 3000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        },
+        {
+          "rownumber": 2,
+          "seats": [
+            {
+              "id": 214,
+              "number": 1,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 215,
+              "number": 2,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            },
+            {
+              "id": 216,
+              "number": 3,
+              "value": 2000,
+              "isbooked": false,
+              "isreserved": false
+            }
+          ]
+        }
+      ]
+    }
+  }
