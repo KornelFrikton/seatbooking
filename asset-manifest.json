@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/seatbooking/static/css/main.f6a4ac9d.css",
+    "main.js": "/seatbooking/static/js/main.4a08d63a.js",
+    "static/media/theatre.jpg": "/seatbooking/static/media/theatre.589148ae0130e122a707.jpg",
+    "index.html": "/seatbooking/index.html",
+    "main.f6a4ac9d.css.map": "/seatbooking/static/css/main.f6a4ac9d.css.map",
+    "main.4a08d63a.js.map": "/seatbooking/static/js/main.4a08d63a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a4ac9d.css",
+    "static/js/main.4a08d63a.js"
+  ]
+}
